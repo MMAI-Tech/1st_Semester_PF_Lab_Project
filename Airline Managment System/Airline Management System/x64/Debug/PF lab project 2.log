@@ -1,0 +1,4 @@
+﻿  PF lab project 2.cpp
+D:\1st semester Source\project\PF Lab semeter project\PF lab project 2\PF lab project 2\PF lab project 2.cpp(773,41): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\1st semester Source\project\PF Lab semeter project\PF lab project 2\PF lab project 2\PF lab project 2.cpp(810,45): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  PF lab project 2.vcxproj -> D:\1st semester Source\project\PF Lab semeter project\PF lab project 2\x64\Debug\PF lab project 2.exe
